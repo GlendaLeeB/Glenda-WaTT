@@ -1,0 +1,78 @@
+*{
+    text-align: center;
+}
+
+
+header {
+    background-color: rgb(59, 190, 230);
+    font-family: sans-serif;
+    padding: 3%
+}
+
+
+small {
+    color: white
+}
+
+img{
+    padding: 1%;
+}
+
+h1, h2 {
+    color: rgb(45, 11, 126);
+    margin: 0px;
+}
+
+.container-one a {
+    color: white;
+}
+
+.box ul{
+    background-color: rgb(228, 233, 235);
+    border-radius: 10%;
+    padding: 3%
+}
+
+#texto-parrafo {
+    color: rgb(196, 202, 202);
+}
+
+
+.box {
+    width: 50%;
+    padding: 3%;
+    text-align: center;
+    background-color: rgb(196, 191, 191);
+    font-size: 14px;
+    display: inline-block;
+    font-family: sans-serif;
+}
+
+i{
+    font-size: 27px;
+    padding: 3%;
+    text-align: left;
+}
+
+.box ul ul:first-child {
+    color: rgb(194, 14, 59);
+}
+
+.box ul li:nth-child(2) {
+    color: rgb(9, 145, 39);
+}
+
+.box ul li:nth-child(3) {
+    color: rgb(184, 124, 13);
+}
+
+.box ul li:last-child {
+    color: rgb(4, 52, 124);
+}
+
+
+footer {
+    background-color: rgb(31, 192, 241);
+    font-family: sans-serif;
+    padding: 3%
+}
